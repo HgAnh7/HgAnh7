@@ -1,3 +1,5 @@
-![Preview](./images/bg.webp)
+<p align="center">
+  <img src="./images/bg.webp" alt="Preview" width="100%" />
+</p>
 
-### Hi!👋 I'm Hoang Anh 👾
+<h3 align="center">Hi! 👋 I'm Hoang Anh 👾</h3>
