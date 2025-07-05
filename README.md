@@ -5,7 +5,4 @@
 ### Hi! 👋 I'm Hoang Anh 👾
 
 ### 👑 Profile
-- [<img src="./images/telegram.gif" alt="Telegram" width="30">]Telegram(https://t.me/HgAnh7)
-<a href="[Telegram](https://t.me/HgAnh7)">
-  <img src="./images/telegram.gif" width="30" alt="Telegram"> Telegram
-</a>
+- [<img src="./images/telegram.gif" alt="Telegram" width="30">](https://t.me/HgAnh7) [Telegram](https://t.me/HgAnh7)
