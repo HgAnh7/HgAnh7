@@ -6,6 +6,6 @@
 
 ### 👑 Profile
 - [<img src="./images/telegram.gif" alt="Telegram" width="30">]Telegram(https://t.me/HgAnh7)
-- <a href="[https://tiktok.com/@HgAnh_7](https://t.me/HgAnh7)">
-        <img src="./images/telegram.gif" class="w-6 h-6 mr-2" alt="Telegram"> Telegram
+- <a href="[Telegram](https://t.me/HgAnh7)">
+        <img src="./images/telegram.gif" width="30" alt="Telegram"> Telegram
   </a>
