@@ -5,4 +5,4 @@
 ### Hi! 👋 I'm Hoang Anh 👾
 
 ### Profile
-- [<img src="./images/telegram.gif" alt="Telegram" width="30">**Han Jue**](https://t.me/HgAnh7 "Telegram")
+- [<img src="./images/telegram.gif" alt="Telegram" width="20" style="vertical-align: middle;"> **Han Jue**](https://t.me/HgAnh7)
